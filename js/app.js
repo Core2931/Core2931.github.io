@@ -46,8 +46,6 @@ let sec = 0;
 
 // Timer
 let timer = undefined;
-/*undefined ยังไม่ได้มอบค่าให้มันหรือยังไม่ได้ระบุค่า 
-ต่างจากnullตรงมันระบุค่ามาแล้วว่าเป็นค่าnull*/
 
 // Game status
 let gameStarted = false;
